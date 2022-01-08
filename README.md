@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dayvvss
 - 👀 I’m interested in UI/UX and developing web applications  
-- 🌱 I’m currently learning javascript and css 
+- 🌱 I’m currently learning javascript,react and css 
 - 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me daviesny@outlook.com
 
