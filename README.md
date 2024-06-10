@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @dayvvss
-- 👀 I’m interested in UI/UX and developing web applications
-- 🕸 I have over 2 years experience in web development   
-- 🌱 I’m currently learning ,reactJS and nodeJS 
-- 💞️ I’m looking to collaborate on App development
-- 📫 How to reach me daviesny@outlook.com
+- 👀 I’m interested in machine learning,web apps and architecture 
+- 🕸 I have over 4 years experience in web app development   
+
 
 <!---
 dayvvss/dayvvss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
